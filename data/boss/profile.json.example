@@ -1,0 +1,97 @@
+{
+  "name": "张三",
+  "gender": 1,
+  "age": 28,
+  "email": "zhangsan@example.com",
+  "phone": "1381234****",
+  "workExpYear": "3-5年",
+  "education": "本科",
+  "expectPosition": "Python开发工程师",
+  "expectSalary": "20k-30k",
+  "expectCity": "北京",
+  "jobStatus": "在职，看看新机会",
+  "selfDescription": "热爱编程，对新技术有浓厚兴趣。善于解决复杂问题，注重代码质量，有良好的团队协作精神。",
+  "workExperienceList": [
+    {
+      "company": "北京某科技有限公司",
+      "position": "Python后端开发工程师",
+      "department": "技术部",
+      "startDate": "2021-06",
+      "endDate": "至今",
+      "description": "1. 负责公司核心业务API的开发和维护\n2. 优化系统架构，提升系统性能和稳定性\n3. 参与技术方案设计和评审\n4. 解决线上问题，保障系统稳定运行"
+    },
+    {
+      "company": "上海某网络科技有限公司",
+      "position": "Python开发工程师",
+      "department": "研发中心",
+      "startDate": "2019-07",
+      "endDate": "2021-05",
+      "description": "1. 参与电商平台后端开发\n2. 负责数据分析系统的开发和维护\n3. 编写单元测试，保障代码质量\n4. 参与code review，提升团队代码质量"
+    }
+  ],
+  "projectExperienceList": [
+    {
+      "projectName": "企业级数据分析平台",
+      "role": "核心开发",
+      "startDate": "2022-01",
+      "endDate": "2022-12",
+      "description": "1. 使用Python+Django开发RESTful API\n2. 设计和实现数据处理流程，支持TB级数据的高效处理\n3. 优化查询性能，将复杂查询响应时间降低70%\n4. 实现实时数据监控和异常告警功能"
+    },
+    {
+      "projectName": "电商推荐系统",
+      "role": "后端开发",
+      "startDate": "2020-03",
+      "endDate": "2021-02",
+      "description": "1. 使用Flask开发推荐系统API\n2. 结合机器学习算法，实现个性化推荐功能\n3. 使用Redis优化热点数据访问\n4. 通过A/B测试不断优化推荐算法"
+    }
+  ],
+  "educationList": [
+    {
+      "school": "北京某大学",
+      "major": "计算机科学与技术",
+      "degree": "本科",
+      "startDate": "2015-09",
+      "endDate": "2019-06"
+    }
+  ],
+  "skillList": [
+    {
+      "name": "Python",
+      "level": "精通"
+    },
+    {
+      "name": "Django",
+      "level": "精通"
+    },
+    {
+      "name": "Flask",
+      "level": "熟练"
+    },
+    {
+      "name": "MySQL",
+      "level": "熟练"
+    },
+    {
+      "name": "Redis",
+      "level": "熟练"
+    },
+    {
+      "name": "Docker",
+      "level": "熟练"
+    },
+    {
+      "name": "Linux",
+      "level": "熟练"
+    },
+    {
+      "name": "Git",
+      "level": "熟练"
+    }
+  ],
+  "certificationList": [
+    {
+      "name": "PMP项目管理专业人士资格认证",
+      "getDate": "2021-05"
+    }
+  ]
+} 

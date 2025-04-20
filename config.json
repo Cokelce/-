@@ -1,0 +1,70 @@
+{
+    "keyword": "Python",
+    "exclude_keywords": [
+        "游戏",
+        "测试",
+        "运维",
+        "实习",
+        "外包"
+    ],
+    "company_exclude_keywords": [
+        "外包",
+        "科技有限公司"
+    ],
+    "require_exclude_keywords": [
+        "本科以上学历",
+        "五年以上经验",
+        "海外背景"
+    ],
+    "job_exclude_types": [
+        "外包服务",
+        "培训机构"
+    ],
+    "proxy": "",
+    "min_interval": 5,
+    "max_interval": 10,
+
+    "cookies": "",
+    "max_pages": 5,
+    "max_jobs": 100,
+    "max_apply": 10,
+    "send_resume_image": true,
+    "resume_image_path": "resume.jpg",
+    "greeting": "您好，我对贵公司的职位很感兴趣，希望能有机会进一步了解。",
+    "applied_jobs_path": "applied_jobs.json",
+    "city": "101010100",
+    "experience": "",
+    "degree": "",
+    "salary": "",
+
+    "zhilian_cookies": "",
+    "zhilian_max_pages": 3,
+    "zhilian_max_jobs": 50,
+    "zhilian_max_apply": 5,
+    "zhilian_resume_id": "",
+    "zhilian_applied_jobs_path": "zhilian_applied_jobs.json",
+    "zhilian_city": "530",
+    "zhilian_experience": "",
+    "zhilian_degree": "",
+    "zhilian_salary": "",
+
+    "qiancheng_cookies": "",
+    "qiancheng_max_pages": 3,
+    "qiancheng_max_jobs": 50,
+    "qiancheng_max_apply": 5,
+    "qiancheng_applied_jobs_path": "qiancheng_applied_jobs.json",
+    "qiancheng_city": "010000",
+    "qiancheng_experience": "",
+    "qiancheng_degree": "",
+    "qiancheng_salary": "",
+
+    "lagou_cookies": "",
+    "lagou_max_pages": 3,
+    "lagou_max_jobs": 50,
+    "lagou_max_apply": 5,
+    "lagou_applied_jobs_path": "lagou_applied_jobs.json",
+    "lagou_city": "北京",
+    "lagou_experience": "",
+    "lagou_degree": "",
+    "lagou_salary": ""
+} 
